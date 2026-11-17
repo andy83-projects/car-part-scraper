@@ -2,6 +2,8 @@
 
 Automated scraper for finding compatible cylinder heads on car-part.com with AI-powered parsing and price tracking.
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-andy83-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/andy83)
+
 ## Features
 
 - 🔍 Searches 11 vehicle configurations (4G63, G4JS, Hyundai 2.0L DOHC heads)
